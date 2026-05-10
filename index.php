@@ -4,7 +4,7 @@
 
 $name = "May Cherry Aung - CNAS";
 
-$message = "Hello, $name! Welcome to CNAS 1.";
+$message = "Hello, $name! CNAS has been changed.";
 
 echo $message;
 
